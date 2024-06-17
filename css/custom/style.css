@@ -691,7 +691,7 @@ a {
 
 /*========================================== 7.WHY WE ARE SATART ===========================================*/
 .whywe-right-bgimage {
-    background-image: url("../../images/1000x550x1.jpg");
+    background-image: url("../../images/750x580x6.jpg");
     height: 525px;
     width: 50%;
 }
@@ -987,7 +987,7 @@ a {
 /*========================================== 17.CONTACT FORM START ===========================================*/
 
 .contact-bgimage {
-    background-image: url("../../images/1920x900x1.jpg");
+    background-image: url("../../images/cc.png");
 }
 .contact-padding {
     padding-bottom: 150px;
@@ -1366,10 +1366,10 @@ only screen and (min-resolution: 1.5dppx) {
 		background-image: url("../../images/1920x700x2%402x.jpg");
 	}
 	.contact-bgimage {
-		background-image: url("../../images/1920x900x1%402x.jpg");
+		background-image: url("../../images/cc.png");
 	}	
 	.whywe-right-bgimage {
-		background-image: url("../../images/1000x550x1%402x.jpg");
+		background-image: url("../../images/750x580x6.jpg");
 	}
 }
 
